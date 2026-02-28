@@ -1,0 +1,182 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+   padding: 0; 
+   background-image: url('https://cs13.pikabu.ru/post_img/big/2024/07/12/11/1720811997124157013.png') ;  /*https://cs13.pikabu.ru/post_img/big/2024/07/12/11/1720811997124157013.png*/  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  
+}
+
+header{
+    display: flex;
+
+    margin: 0px;
+    background: #070247;
+    color: white;
+     padding: 20px 60px; 
+    font-size: 17px;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+    gap: 10px; 
+    align-items: center;
+    
+}
+
+header a {
+    color: white;
+    background-color: #000833;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+footer{
+    padding: 20px;
+    margin: 0px;
+    background: #070247;
+    color: white;
+    font-size: 17px;
+}
+
+
+
+main{
+    color: black;
+
+    
+}
+
+.What_is_it{
+   background-color: rgba(255, 255, 255, 0.5);
+   padding: 10px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+
+.Main_character{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin:10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+
+.Second_main_character{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+
+.The_Emperor_the_Empress_and_his_Concubines{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+.The_Emperor{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+
+.the_Empress{
+      background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+   
+}
+
+.Concubines{
+          background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.Gokuo{
+     background-color: rgba(255, 255, 255, 0);
+     border: 2px solid darkblue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.Rifa{
+    background-color: rgba(255, 255, 255, 0);
+         border: 2px solid darkblue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.Rishu{
+      background-color: rgba(255, 255, 255, 0);
+           border: 2px solid darkblue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.A_Duo{
+    background-color: rgba(255, 255, 255, 0);
+         border: 2px solid darkblue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.Rouran{
+     background-color: rgba(255, 255, 255, 0);
+          border: 2px solid darkblue;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+
+.others{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
+.facts{
+    background-color: rgba(255,255,255, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px;
+    color: #140b40;
+}
+
+.Interesting_facts{
+    background-color: rgba(255, 255, 255, 0.5);
+   padding: 5px;
+   margin: 10px;
+   border-radius: 8px;
+   color: black;
+}
